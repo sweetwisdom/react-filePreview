@@ -1,14 +1,24 @@
 # FilePreview
 
-FilePreview 是一个使用Vite+ React 和 PDF.js 技术构建的 Git 项目，可以在线预览各种文件格式。
+FilePreview 是一个使用 Vite+ React 和 PDF.js 技术构建的 Git 项目，可以在线预览各种文件格式。
 
-同时支持移动端和PC端
+同时支持移动端和 PC 端
 
+## 支持 pdf,office 图片等格式预览
 
+实例如下：
+
+> [文件预览 -pdf](https://sweetwisdom.github.io/react-filePreview/filePreview/?type=pdf&url=https://sweetwisdom.github.io/react-filePreview/filePreview/00.pdf)
+>
+> [文件预览 -word](https://sweetwisdom.github.io/react-filePreview/filePreview/?type=doc&url=https://sweetwisdom.github.io/react-filePreview/filePreview/00.docx)
+>
+> [文件预览 -excel](https://sweetwisdom.github.io/react-filePreview/filePreview/?type=doc&url=https://sweetwisdom.github.io/react-filePreview/filePreview/00.xlsx)
+>
+> [文件预览 -ppt](https://sweetwisdom.github.io/react-filePreview/filePreview/?type=doc&url=https://sweetwisdom.github.io/react-filePreview/filePreview/00.pptx)
+>
+> [文件预览 -img](https://sweetwisdom.github.io/react-filePreview/filePreview/?type=img&url=https://shp.qpic.cn/ishow/2735050916/1683619418_1265602313_17762_sProdImgNo_2.jpg/0)
 
 ## 效果预览
-
-
 
 ![image-20230627203120423](./.imgs/image-20230627203120423.png)
 

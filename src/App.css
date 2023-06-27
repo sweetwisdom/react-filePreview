@@ -1,0 +1,27 @@
+.read-the-docs {
+    color: #888;
+}
+
+
+.imgContainer {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    /* margin: 0;
+    padding: 0;
+    overflow: hidden; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+.imgPre {
+    width: 100vw;
+        height: 100vh;
+}
+
+.notFound img {
+    width: 60%;
+    height: auto;
+}
